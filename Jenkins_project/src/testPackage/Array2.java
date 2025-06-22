@@ -1,7 +1,7 @@
 package testPackage;
 
 public class Array2 {
-	int a[] = {1,2,3,4,5,6};
+	int a[] = {1,2,3,4,5};
 	
 	public static void main(String[] args) {
 		Array2 a2= new Array2();
